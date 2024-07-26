@@ -1,0 +1,14 @@
+D:\MYDOCUMENTS\DESKTOP\BTK\DateTime\bin\Debug\net8.0\DateTime.exe
+D:\MYDOCUMENTS\DESKTOP\BTK\DateTime\bin\Debug\net8.0\DateTime.deps.json
+D:\MYDOCUMENTS\DESKTOP\BTK\DateTime\bin\Debug\net8.0\DateTime.runtimeconfig.json
+D:\MYDOCUMENTS\DESKTOP\BTK\DateTime\bin\Debug\net8.0\DateTime.dll
+D:\MYDOCUMENTS\DESKTOP\BTK\DateTime\bin\Debug\net8.0\DateTime.pdb
+D:\MYDOCUMENTS\DESKTOP\BTK\DateTime\obj\Debug\net8.0\DateTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\MYDOCUMENTS\DESKTOP\BTK\DateTime\obj\Debug\net8.0\DateTime.AssemblyInfoInputs.cache
+D:\MYDOCUMENTS\DESKTOP\BTK\DateTime\obj\Debug\net8.0\DateTime.AssemblyInfo.cs
+D:\MYDOCUMENTS\DESKTOP\BTK\DateTime\obj\Debug\net8.0\DateTime.csproj.CoreCompileInputs.cache
+D:\MYDOCUMENTS\DESKTOP\BTK\DateTime\obj\Debug\net8.0\DateTime.dll
+D:\MYDOCUMENTS\DESKTOP\BTK\DateTime\obj\Debug\net8.0\refint\DateTime.dll
+D:\MYDOCUMENTS\DESKTOP\BTK\DateTime\obj\Debug\net8.0\DateTime.pdb
+D:\MYDOCUMENTS\DESKTOP\BTK\DateTime\obj\Debug\net8.0\DateTime.genruntimeconfig.cache
+D:\MYDOCUMENTS\DESKTOP\BTK\DateTime\obj\Debug\net8.0\ref\DateTime.dll
